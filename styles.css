@@ -255,3 +255,7 @@ h2 {
 .a2 {
     color: #ffd700;
     text-decoration: none;
+}
+.a2:hover { 
+    font-weight: bold;
+}
